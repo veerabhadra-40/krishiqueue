@@ -1,0 +1,6 @@
+{
+  "name": "KrishiQueue",
+  "description": "Smart Farmer Procurement & Real-Time Queue Management Platform for Department of Consumer Affairs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
